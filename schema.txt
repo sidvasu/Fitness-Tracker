@@ -1,0 +1,3 @@
+USERS(UserID, Username, Password)
+GOALS(Name, UserID)
+ENTRIES(Date, Time, UserID, Goals, Description)
